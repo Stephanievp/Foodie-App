@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MealDetailActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/titleDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_placeholder"
+            android:padding="8dp"
+            style="@style/MealTitle"/>
+
+        <ImageView
+            android:id="@+id/imageViewMealDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/titleDetail"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/meal_image_description" />
+
+        <TextView
+            android:id="@+id/descriptionDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageViewMealDetail"
+            android:text="@string/description_placeholder"
+            android:padding="8dp"
+            style="@style/MealDescription"/>
+
+        <TextView
+            android:id="@+id/meal_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/descriptionDetail"
+            android:text="info"
+            android:autoLink="all"/>
+
+    </RelativeLayout>
+
+</ScrollView>
