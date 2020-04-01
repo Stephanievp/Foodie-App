@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Foodie App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_placeholder">Meal Title</string>
+    <string name="description_placeholder">Description</string>
+    <string name="meal_image_description">Meal Image</string>
+
+    <string name="alert_title">Delete Meal</string>
+    <string name="alert_message">Press Yes to delete or NO to cancel</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+
+
+    <string-array name="meal_titles">
+        <item>Al\'s Burmese Chicken Curry</item>
+        <item>Sweet Potato and Venison Shepherd\'s Pie </item>
+        <item>World\'s Best Lasagna</item>
+        <item>Maple Salmon</item>
+        <item>Marinated Grilled Shrimp</item>
+        <item>Barbequed Ribs</item>
+    </string-array>
+
+    <string-array name="meal_descriptions">
+        <item>A chicken curry with the balanced elements of spicy and sour with the traditional flavors of Southeast Asia.
+            \nServe with basmati rice. This will taste even better if you leave it for a day or two before eating.</item>
+        <item>A hearty, warming, and comforting venison shepherd\'s pie that\'s perfect for opening day!</item>
+        <item>It takes a little work, but it is worth it.</item>
+        <item>This is the best and most delicious salmon recipe, and very easy to prepare.
+            \nI love maple in everything and put this together one night.</item>
+        <item>A very simple and easy marinade that makes your shrimp so yummy you don\'t even need cocktail sauce!
+            \nTry it with a salad, baked potato, and garlic bread. You will not be disappointed!!!</item>
+        <item>Two day ribs, but worth the effort.
+            \nBaked and marinated with a rub overnight, then grilled with barbecue sauce.</item>
+    </string-array>
+
+    <array name="meal_images">
+        <item>@drawable/chicken_curry</item>
+        <item>@drawable/pie</item>
+        <item>@drawable/lasagna</item>
+        <item>@drawable/salmon</item>
+        <item>@drawable/shrimp</item>
+        <item>@drawable/ribs</item>
+    </array>
+
+    <string-array name="meal_info">
+        <item> For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/276989/als-burmese-chicken-curry/?internalSource=staff%20pick&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%201
+        </item>
+        <item>For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/277079/sweet-potato-and-venison-shepherds-pie/?internalSource=staff%20pick&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%202</item>
+        <item>For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=hub%20recipe&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%207</item>
+        <item>For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/51283/maple-salmon/?internalSource=hub%20recipe&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%2022</item>
+        <item>For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/21694/marinated-grilled-shrimp/?internalSource=hub%20recipe&amp;referringContentType=Search&amp;clickId=cardslot%201</item>
+        <item>For more information on ingredients and cooking directions, visit the webpage:\n
+            \n
+            https://www.allrecipes.com/recipe/19856/barbequed-ribs/?internalSource=hub%20recipe&amp;referringContentType=Search&amp;clickId=cardslot%204</item>
+    </string-array>
+
+</resources>
