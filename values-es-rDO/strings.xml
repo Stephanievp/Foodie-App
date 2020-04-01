@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Foodie App</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="title_placeholder">Meal Title</string>
+    <string name="description_placeholder">Description</string>
+    <string name="meal_image_description">Meal Image</string>
+
+    <string name="alert_title">Eliminar Comida</string>
+    <string name="alert_message">Presione SI para eliminar o NO para cancelar</string>
+    <string name="yes_button">Si</string>
+    <string name="no_button">NO</string>
+
+
+    <string-array name="meal_titles">
+        <item>Pollo al Curry Birmano de Al</item>
+        <item>Pastel de Batata y Carne de Venado</item>
+        <item>La Mejor Lasaña del Mundo</item>
+        <item>Salmón Arce</item>
+        <item>Camarones Marinados a la Plancha</item>
+        <item>Costillas a la Barbacoa</item>
+    </string-array>
+
+    <string-array name="meal_descriptions">
+        <item>Un pollo al curry con los elementos equilibrados de picante y agrio con los sabores tradicionales del sudeste asiático.
+            \nServir con arroz basmati. Esto sabrá aún mejor si lo dejas por un día o dos antes de comer.</item>
+        <item>¡Un pastel de pastor de carne de venado abundante, cálido y reconfortante que es perfecto para el día de la inauguración!</item>
+        <item>Se necesita un poco de trabajo, pero vale la pena.</item>
+        <item>Esta es la mejor y más deliciosa receta de salmón, y muy fácil de preparar.
+            \nMe encanta el arce en todo y arme esto una noche.</item>
+        <item>¡Una marinada muy simple y fácil que hace que tus camarones sean tan deliciosos que ni siquiera necesitas salsa de cóctel!
+            \n Pruébalo con una ensalada, papas al horno y pan de ajo. ¡¡¡Usted no será decepcionado!!!</item>
+        <item>Costillas de dos días, pero vale la pena el esfuerzo.
+            \nAl horno y marinado con un masaje durante la noche, luego a la parrilla con salsa de barbacoa.</item>
+    </string-array>
+
+    <array name="meal_images">
+        <item>@drawable/chicken_curry</item>
+        <item>@drawable/pie</item>
+        <item>@drawable/lasagna</item>
+        <item>@drawable/salmon</item>
+        <item>@drawable/shrimp</item>
+        <item>@drawable/ribs</item>
+    </array>
+
+    <string-array name="meal_info">
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/276989/als-burmese-chicken-curry/?internalSource=staff%20pick&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%201
+        </item>
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/277079/sweet-potato-and-venison-shepherds-pie/?internalSource=staff%20pick&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%202</item>
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=hub%20recipe&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%207</item>
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/51283/maple-salmon/?internalSource=hub%20recipe&amp;referringId=80&amp;referringContentType=Recipe%20Hub&amp;clickId=cardslot%2022</item>
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/21694/marinated-grilled-shrimp/?internalSource=hub%20recipe&amp;referringContentType=Search&amp;clickId=cardslot%201</item>
+        <item>Para obtener más información sobre ingredientes e instrucciones de cocción, visite la página web:\n
+            \n
+            https://www.allrecipes.com/recipe/19856/barbequed-ribs/?internalSource=hub%20recipe&amp;referringContentType=Search&amp;clickId=cardslot%204</item>
+    </string-array>
+
+</resources>
